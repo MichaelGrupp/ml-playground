@@ -1,0 +1,3 @@
+[submodule "src/tensorflow/other-tutorials/tensorflow-mnist-tutorial"]
+	path = src/tensorflow/other-tutorials/tensorflow-mnist-tutorial
+	url = https://github.com/martin-gorner/tensorflow-mnist-tutorial
